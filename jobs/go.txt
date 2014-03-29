@@ -1,0 +1,10 @@
+id: hello-world
+_summary: A hello world written in Go
+_description:
+   A test that always passes
+   .
+   This simple test will always succeed, assuming the
+   hello.go program was built correctly.
+plugin: shell
+estimated_duration: 0.01
+command: hello-world 
