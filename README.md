@@ -1,5 +1,5 @@
-A minimalistic PlainBox provider using Go
-=========================================
+A tiny PlainBox provider using Go
+=================================
 
 Usage instructions:
 ```
