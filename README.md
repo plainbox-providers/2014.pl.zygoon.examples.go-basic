@@ -1,7 +1,7 @@
 A tiny PlainBox provider using Go
 =================================
 
-Usage instructions:
+Usage instructions (Ubuntu 14.04):
 ```
     sudo apt-get install plainbox
     sudo apt-get install golang-go
